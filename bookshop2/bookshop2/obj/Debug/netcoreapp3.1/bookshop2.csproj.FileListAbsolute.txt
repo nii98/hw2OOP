@@ -1,0 +1,13 @@
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\bin\Debug\netcoreapp3.1\bookshop2.exe
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\bin\Debug\netcoreapp3.1\bookshop2.deps.json
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\bin\Debug\netcoreapp3.1\bookshop2.runtimeconfig.json
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\bin\Debug\netcoreapp3.1\bookshop2.runtimeconfig.dev.json
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\bin\Debug\netcoreapp3.1\bookshop2.dll
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\bin\Debug\netcoreapp3.1\bookshop2.pdb
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\obj\Debug\netcoreapp3.1\bookshop2.csprojAssemblyReference.cache
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\obj\Debug\netcoreapp3.1\bookshop2.AssemblyInfoInputs.cache
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\obj\Debug\netcoreapp3.1\bookshop2.AssemblyInfo.cs
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\obj\Debug\netcoreapp3.1\bookshop2.csproj.CoreCompileInputs.cache
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\obj\Debug\netcoreapp3.1\bookshop2.dll
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\obj\Debug\netcoreapp3.1\bookshop2.pdb
+C:\Users\nii98_5tv8l5u\source\repos\bookshop2\bookshop2\obj\Debug\netcoreapp3.1\bookshop2.genruntimeconfig.cache
